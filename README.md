@@ -1,8 +1,8 @@
-# LaTeX syntax highlighting in Azure Devops
+# LaTeX language support in Azure Devops
 
 ## Contributing
 
-Copy the language variable out of `vss-extension.json` and paste into the [monaco playground](https://microsoft.github.io/monaco-editor/playground.html). Copy changes you like back into `vss-extension.json`.
+Copy the language variable out of `vss-extension.json` and paste into the [monaco monarch editor](https://microsoft.github.io/monaco-editor/monarch.html). Copy changes you like back into `vss-extension.json`.
 
 Useful links
 - https://github.com/microsoft/azure-devops-extension-sample/tree/master/src/Examples/CodeEditorContribution
