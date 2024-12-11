@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "azure-devops-latex-lang",
     "publisher": "noah-prezant",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "name": "LaTeX Language Support",
     "description": "Syntax highlighting for LaTeX files",
     "public": false,
@@ -37,9 +37,9 @@
     "contributions": [
         {
             "id": "latex-language-contribution",
-            "type": "ms.vss-code-web.code-editor-contribution",
+            "type": "ms.vss-features.code-editor-language",
             "targets": [
-                "ms.vss-code-web.code-editor-contribution-collection"
+                "ms.vss-features.editor"
             ],
             "properties": {
                 "extensions": [
